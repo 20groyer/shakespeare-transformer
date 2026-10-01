@@ -66,8 +66,8 @@ The model is **decoder-only**, the same family as the GPT models.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/20groyer/shakespeare-transformer.git
+cd shakespeare-transformer
 
 # 2. (Recommended) create a virtual environment
 python3 -m venv venv
